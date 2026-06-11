@@ -62,6 +62,14 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.17 — Fotos, notificações, backup e configurações
+- **Foto anexada ao documento** (câmera ou galeria) com visualização em tela cheia.
+- **Notificação de vencimento com o app fechado**: verificação diária que avisa
+  quando há documentos vencidos ou vencendo.
+- **Backup e restauração** dos dados em arquivo (restauração exclusiva do Master).
+- **Tela de Configurações**: antecedência do alerta (7/15/30 dias) e seção
+  **Sobre** (versão instalada, novidades e verificação de atualização).
+
 ### 1.0.15 — Seletores e validação
 - **Tipo de documento** agora é selecionável (CNH / RG), em vez de digitado.
 - **Categoria da CNH** agora é selecionável (A, B, AB, C, D, E, AC, AD, AE, ACC).
