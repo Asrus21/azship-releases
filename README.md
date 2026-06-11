@@ -62,6 +62,10 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.18 — Changelog no app e verificação de atualização
+- O histórico de novidades passa a ser exibido **dentro do app** (em cards).
+- "Verificar atualização" avisa quando **já está na versão mais recente**.
+
 ### 1.0.17 — Fotos, notificações, backup e configurações
 - **Foto anexada ao documento** (câmera ou galeria) com visualização em tela cheia.
 - **Notificação de vencimento com o app fechado**: verificação diária que avisa
