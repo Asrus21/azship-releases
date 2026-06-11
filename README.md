@@ -62,6 +62,12 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.22 — Módulo de Viagens
+- **Cadastro de viagens/fretes** com motorista e veículo vinculados.
+- **Status** (Agendada → Em andamento → Concluída) com checklist de saída.
+- **Despesas por viagem** com total calculado.
+- Motorista vê e movimenta **as próprias viagens**.
+
 ### 1.0.21 — Relatórios e PDF
 - **Ficha do motorista em PDF** e **relatório de vencimentos em PDF**.
 - **Tela de Relatórios** com números da frota.
