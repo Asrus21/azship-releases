@@ -62,6 +62,10 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.21 — Relatórios e PDF
+- **Ficha do motorista em PDF** e **relatório de vencimentos em PDF**.
+- **Tela de Relatórios** com números da frota.
+
 ### 1.0.20 — Identidade do motorista
 - **Foto de perfil do motorista** no cadastro, na lista e na ficha.
 - **Carteirinha digital** com foto, dados e **QR code**.
