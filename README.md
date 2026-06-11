@@ -62,6 +62,10 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.24 — Acabamento visual
+- **Modo escuro** (acompanha o tema do aparelho).
+- **Avisos internos**: comunicados do admin visíveis a todos os usuários.
+
 ### 1.0.23 — Segurança e auditoria
 - **Log de auditoria** (quem fez o quê e quando), consultável pelo Master.
 - **Bloqueio do login** após 5 tentativas erradas.
