@@ -62,6 +62,12 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.23 — Segurança e auditoria
+- **Log de auditoria** (quem fez o quê e quando), consultável pelo Master.
+- **Bloqueio do login** após 5 tentativas erradas.
+- **"Esqueci minha senha"** com token de redefinição gerado pelo admin.
+- **Biometria/PIN ao abrir o app** (opcional).
+
 ### 1.0.22 — Módulo de Viagens
 - **Cadastro de viagens/fretes** com motorista e veículo vinculados.
 - **Status** (Agendada → Em andamento → Concluída) com checklist de saída.
