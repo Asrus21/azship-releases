@@ -62,6 +62,11 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.19 — Robustez
+- Consultas ao banco em segundo plano (sem travamentos com muitos registros).
+- Confirmação ao sair de formulários com alterações não salvas.
+- **"Desfazer"** ao excluir veículos e documentos.
+
 ### 1.0.18 — Changelog no app e verificação de atualização
 - O histórico de novidades passa a ser exibido **dentro do app** (em cards).
 - "Verificar atualização" avisa quando **já está na versão mais recente**.
