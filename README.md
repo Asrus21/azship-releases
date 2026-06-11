@@ -62,6 +62,11 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.20 — Identidade do motorista
+- **Foto de perfil do motorista** no cadastro, na lista e na ficha.
+- **Carteirinha digital** com foto, dados e **QR code**.
+- Motorista pode **editar os próprios contatos**.
+
 ### 1.0.19 — Robustez
 - Consultas ao banco em segundo plano (sem travamentos com muitos registros).
 - Confirmação ao sair de formulários com alterações não salvas.
