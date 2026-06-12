@@ -62,6 +62,9 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.29 — Abrir menu com deslize
+- **Deslizar da esquerda para a direita** abre o menu lateral.
+
 ### 1.0.27 — Nova navegação
 - **Menu lateral** (☰) e **barra inferior** para navegar pelas seções.
 - Painel mais limpo, com o resumo da frota em destaque.
