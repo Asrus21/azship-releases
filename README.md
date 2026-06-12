@@ -62,6 +62,12 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.33 — Controle de notificações
+- Novo **interruptor "Notificar vencimentos"** nas Configurações para ligar ou
+  desligar os avisos diários de documentos.
+- Botão **"Enviar notificação de teste"** para confirmar na hora que os avisos
+  chegam ao celular; se estiverem desativados, o app leva direto aos ajustes.
+
 ### 1.0.32 — Senha visível na gestão de usuários
 - Na **gestão de usuários** (Master), cada conta exibe a **senha atual**, com o
   campo de **nova senha** logo abaixo para redefini-la.
