@@ -62,9 +62,16 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
-### 1.0.25 — Conta master fixa
-- Login do master vai **direto ao painel** (sem troca obrigatória de senha).
-- A conta `master`/`master123` é **fixa**: sempre existe e não pode ser
+### 1.0.27 — Nova navegação
+- **Menu lateral** (☰) e **barra inferior** para navegar pelas seções.
+- Painel mais limpo, com o resumo da frota em destaque.
+
+### 1.0.26 — Atualização automática no app
+- Tocar em **Atualizar** baixa o APK e abre o instalador **dentro do app**
+  (sem ir ao GitHub/navegador); basta confirmar "Instalar".
+
+### 1.0.25 — Conta principal fixa
+- A **conta principal** do sistema é fixa: sempre existe e não pode ser
   alterada nem excluída.
 
 ### 1.0.24 — Acabamento visual
