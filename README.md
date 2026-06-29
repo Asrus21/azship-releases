@@ -62,6 +62,12 @@ bloqueios por irregularidade.
 > manualmente apenas para validação, **não são listadas aqui** (elas podem
 > aparecer na aba *Releases*, mas não fazem parte do changelog).
 
+### 1.0.34 — Painel "Saúde da Frota"
+- Nova tela **Saúde da Frota** com um **anel** que mostra o **índice de
+  conformidade** dos documentos da frota (quanto está em dia).
+- **Resumo** por situação (em dia / vencendo / vencido) e **ranking de
+  motoristas em risco** — toque para abrir a ficha e regularizar.
+
 ### 1.0.33 — Controle de notificações
 - Novo **interruptor "Notificar vencimentos"** nas Configurações para ligar ou
   desligar os avisos diários de documentos.
